@@ -10,27 +10,27 @@ export default css `
 }
 
 .bg-input {
-    background-color: #002F7E;
+    background-color: #000;
     color: #00B8D4;
     font-weight: bold;
     font-family: "Arial", sans-serif;
 }
 
 .bg-icon {
-    background-color: #007BFF;
+    background-color: #42214b;
     color: #FFFFFF;
     font-weight: bold;
     font-family: "Roboto", sans-serif;
 }
 
 .bg-purple {
-    background-color: #9600B8;
+    background-color: #42214b;
     color: #00B89D;
     font-weight: bold;
     font-family: "Helvetica Neue", sans-serif;
 }
 
-.placeholder-white::placeholder {
+.placeholder-42214b::placeholder {
     color: #00B8D4;
     font-style: italic;
 }
